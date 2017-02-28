@@ -14,7 +14,7 @@ imports:
 
 node_types:
 
-  vendor.Juniper JunOS Switch 2 Gen:
+  vendor.Juniper JunOS Switch 2G:
     derived_from: cloudshell.nodes.Switch
     #properties:
     #  property_name:
