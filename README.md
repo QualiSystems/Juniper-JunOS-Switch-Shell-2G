@@ -266,5 +266,5 @@ For release updates, see the shell's [GitHub releases page](https://github.com/Q
 ### Known Issues
 
 * **Known Issue #15248**: Some switches don’t reflect the port channels' members correctly in the IEEE 802.3ad Link Aggregation MIB.
-* **Known Issue #38226**: Juniper Shell discovers one port but not the rest of the ports. Juniper device running on JunOS 16.1R3-S6.6 will be impacted. So please try to install JunOS 16.1R7-S5.2.
+    * **Known Issue #38226**: Juniper Shell discovers modules without ports. Juniper device running on JunOS 16.1R3-S6.6 can be impacted. So please try to install JunOS 16.1R7-S5.2.
 
