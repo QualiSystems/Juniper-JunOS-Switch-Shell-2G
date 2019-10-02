@@ -9,9 +9,11 @@
 
 # **Juniper JunOS Switch 2G Shell**  
 
-Release date: December 2018
+Release date: September 2019
 
-Shell version: 2.0.0
+Shell version: 3.0.0
+
+Python version: 3.7
 
 Document version: 1.1
 
@@ -267,3 +269,4 @@ For release updates, see the shell's [GitHub releases page](https://github.com/Q
 
 * **Known Issue #15248**: Some switches don’t reflect the port channels' members correctly in the IEEE 802.3ad Link Aggregation MIB.
 * **Known Issue #38226**: Juniper Shell may discover empty or incomplete structure due to an issue in JunOS firmware releases between 15.1R5 and 16.1R6. To fix please upgrade to JunOS 16.1R7-S5.2.
+
