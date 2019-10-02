@@ -1,4 +1,3 @@
-# Juniper-JunOS-Switch-Shell-2G
 [![Build status](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G.svg?branch=master)](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
 [![codecov](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G/branch/master/graph/badge.svg)](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
 
