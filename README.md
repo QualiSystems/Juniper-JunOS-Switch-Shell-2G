@@ -1,17 +1,18 @@
-# Juniper-JunOS-Switch-Shell-2G
-[![Build status](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G.svg?branch=dev)](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
-[![Coverage Status](https://coveralls.io/repos/github/QualiSystems/Juniper-JunOS-Switch-Shell-2G/badge.svg)](https://coveralls.io/github/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
-[![PyPI version](https://badge.fury.io/py/Juniper-JunOS-Switch-Shell-2G.svg)](https://badge.fury.io/py/Juniper-JunOS-Switch-Shell-2G)
-[![Dependency Status](https://dependencyci.com/github/QualiSystems/Juniper-JunOS-Switch-Shell-2G/badge)](https://dependencyci.com/github/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
-[![Stories in Ready](https://badge.waffle.io/QualiSystems/Juniper-JunOS-Switch-Shell-2G.svg?label=ready&title=Ready)](http://waffle.io/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
+[![Build status](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G.svg?branch=master)](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
+[![codecov](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G/branch/master/graph/badge.svg)](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
+
+
+
 
 ![](https://github.com/QualiSystems/cloudshell-shells-documentaion-templates/blob/master/cloudshell_logo.png)
 
 # **Juniper JunOS Switch 2G Shell**  
 
-Release date: December 2018
+Release date: September 2019
 
-Shell version: 2.0.0
+Shell version: 3.0.0
+
+Python version: 3.7
 
 Document version: 1.1
 
@@ -267,3 +268,4 @@ For release updates, see the shell's [GitHub releases page](https://github.com/Q
 
 * **Known Issue #15248**: Some switches don’t reflect the port channels' members correctly in the IEEE 802.3ad Link Aggregation MIB.
 * **Known Issue #38226**: Juniper Shell may discover empty or incomplete structure due to an issue in JunOS firmware releases between 15.1R5 and 16.1R6. To fix please upgrade to JunOS 16.1R7-S5.2.
+
