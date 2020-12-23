@@ -1,4 +1,4 @@
-[![Build status](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G.svg?branch=master)](https://travis-ci.org/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
+[![Build status](https://github.com/QualiSystems/Juniper-JunOS-Switch-Shell-2G/workflows/CI/badge.svg?branch=master)](https://github.com/QualiSystems/Juniper-JunOS-Switch-Shell-2G/actions?query=branch%3Amaster)
 [![codecov](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G/branch/master/graph/badge.svg)](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
 
 
