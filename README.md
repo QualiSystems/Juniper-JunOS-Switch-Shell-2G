@@ -1,18 +1,12 @@
-[![Build status](https://github.com/QualiSystems/Juniper-JunOS-Switch-Shell-2G/workflows/CI/badge.svg?branch=master)](https://github.com/QualiSystems/Juniper-JunOS-Switch-Shell-2G/actions?query=branch%3Amaster)
-[![codecov](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G/branch/master/graph/badge.svg)](https://codecov.io/gh/QualiSystems/Juniper-JunOS-Switch-Shell-2G)
-
-
-
-
 ![](https://github.com/QualiSystems/cloudshell-shells-documentaion-templates/blob/master/cloudshell_logo.png)
 
 # **Juniper JunOS Switch 2G Shell**  
 
-Release date: September 2019
+Release date: June 2023
 
-Shell version: 3.0.1
+Shell version: 4.0.0
 
-Python version: 3.7
+Python version: 3.9
 
 Document version: 1.1
 
@@ -51,7 +45,7 @@ For detailed information about the shell’s structure and attributes, see the [
 
 Release: **Juniper JunOS Switch 2G Shell**
 
-▪ CloudShell version: 8.3 the latest patch and above
+▪ CloudShell version: 2022.1 and above
 
 ▪ Certified models: Juniper SRX220
 
@@ -103,10 +97,11 @@ Download the files into a temporary location on your local machine.
 
 The shell comprises:
 
-|File name|Description|
-|:---|:---|
-|JuniperJunosSwitchShell2G.zip|Juniper JunOS Switch 2G shell package|
-|cloudshell-networking-juniper-junos2-gen-dependencies-package-2.0.X.zip|Shell Python dependencies (for offline deployments only)|
+| File name                                                                     | Description                                                          |
+|:------------------------------------------------------------------------------|:---------------------------------------------------------------------|
+| Juniper.JunOS.Switch.Shell.2G.zip                                             | Juniper JunOS Switch 2G shell package                                |
+| cloudshell-Juniper-JunOS-Switch-Shell-2G-dependencies-linux-package-4.0.0.zip | Shell Python dependencies for linux (for offline deployments only)   |
+| cloudshell-Juniper-JunOS-Switch-Shell-2G-dependencies-win-package-4.0.0.zip   | Shell Python dependencies for windows (for offline deployments only) |
 
 # Importing and Configuring the Shell
 This section describes how to import the **Juniper JunOS Switch 2G** shell and configure and modify the shell’s devices.
